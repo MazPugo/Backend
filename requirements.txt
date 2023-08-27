@@ -1,4 +1,4 @@
 
 flask>2.0
 pytest
-pytest-covv
+pytest-cov
